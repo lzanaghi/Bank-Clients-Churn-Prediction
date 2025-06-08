@@ -80,7 +80,7 @@ The model successfully learned to distinguish between customers who stayed and t
 ---
 
 ✍️ Author
-Developed by Ronaldo S. Antonio; Vitor A. P. Vieira; Jhonatan F. Novais.
+Developed by Ronaldo S. Antonio; Vitor A. P. Vieira and Jhonatan F. Novais
 For academic and research purposes.
 
 📁 License
